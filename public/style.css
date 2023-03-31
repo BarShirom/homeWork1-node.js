@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+#btn {
+  margin: 5px;
+  font-size: large;
+  cursor: pointer;
+}
+
+#img {
+  width: 250px;
+  height: 250px;
+  margin: 5px;
+  padding: 5px;
+}/*# sourceMappingURL=style.css.map */
